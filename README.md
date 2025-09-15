@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rvssian-code
 - 👀 I’m interested in ...Web development 
-- 🌱 I’m currently learning ...coding 
+- 🌱 I’m currently learning ... programming 
 - 💞️ I’m looking to collaborate on ...AI 
 - 📫 How to reach me ...bobobote95@gmail.com 
 - 😄 Pronouns: ...
